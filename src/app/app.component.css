@@ -1,0 +1,15 @@
+div h5{
+    margin: 0;
+}
+.left-round{
+    border-radius: 5px 0 0 5px;
+}
+.right-round{
+    border-radius: 0 5px 5px 0;
+}
+.degree{
+    font-size: 200px;
+}
+.weath-logo{
+    height: 200px;
+}
